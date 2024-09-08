@@ -1,4 +1,5 @@
 a = 11
 b = 21
-c = a + b
+d = 42
+c = a + b * d
 print(c)
